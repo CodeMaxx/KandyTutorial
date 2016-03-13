@@ -101,7 +101,9 @@ Setup a loadData() function to log the use in again using values stored in local
 
 }  
 window.onload = loadData;
-//Call the loadData() function on the completion of loading of webpage```
+//Call the loadData() function on the completion of loading of webpage
+
+```
 
 Include the following code to incorporate the ringing sounds on your system when you receive a call.
 ```
